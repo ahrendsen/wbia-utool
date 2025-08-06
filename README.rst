@@ -6,7 +6,7 @@ Wildbook IA - utool
 
 Useful Utility Tools For You! - Part of the WildMe / Wildbook IA Project.
 
-Notice: This is a "kitchen sink" library. While it is still somewhat maintained, it should be considered "end-of-life". Please see https://github.com/Erotemic/ubelt and https://github.com/Erotemic/xdevfor a well-maintained curated collection of utilities.
+Notice: This is a "kitchen sink" library. While it is still somewhat maintained, it should be considered "end-of-life". Please see https://github.com/Erotemic/ubelt and https://github.com/Erotemic/xdev for a well-maintained curated collection of utilities.
 
 ----
 
